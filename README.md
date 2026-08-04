@@ -10,8 +10,6 @@ Vue.js, and Javascript.
 
 I also work as an [artist](https://www.glyph.de).
 
-[Linkdin](https://www.linkedin.com/in/jostmuxfeldt)
-
 [CV Download - Deutsch](https://www.glyph.de/cvs/Muxfeldt-Profil-DE.pdf)
 
 [CV Download - English ](https://www.glyph.de/cvs/Muxfeldt-Profile-EN.pdf)
