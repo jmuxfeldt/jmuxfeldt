@@ -8,7 +8,7 @@ Internet applications, developed using  Symfony (CQRS and Event Sourcing)
 Drupal (I develop with Drupal on an expert level, particularly back-end applications)
 Vue.js, and Javascript. 
 
-I also work as an [artist](https://www.glyph.de).
+I also work as an [artist](https://www.glyph.de/en/page/artist-s-biography).
 
 [CV Download - Deutsch](https://www.glyph.de/cvs/Muxfeldt-Profil-DE.pdf)
 
