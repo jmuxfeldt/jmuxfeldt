@@ -6,9 +6,9 @@ I am a software designer and artist specialized in internet technology and multi
 I have worked as an architect, developer, project manager, designer, and conceptual designer, 
 for prominent offices in Berlin, Germany. The spectrum of my work experience reaches from architecture offices to internet agencies, as well as teaching and publication. 
 
-As a PHP software architect and senior developer, my particular areas of specialty include:
-Internet applications, developed using  Symfony (CQRS and Event Sourcing)
-Drupal (I develop with Drupal on an expert level, particularly back-end applications)
+As a PHP software architect and senior developer, my particular areas of specialty include 
+internet applications, developed using  Symfony (CQRS and Event Sourcing),
+Drupal (I develop with Drupal on an expert level, particularly back-end applications),
 Vue.js, and Typescript. 
 
 See [https://www.glyph.de](https://www.glyph.de).
