@@ -14,6 +14,7 @@ Vue.js, and Typescript.
 See [https://www.glyph.de](https://www.glyph.de).
 
 For my software CV, see:
+
 [CV Download - Deutsch](https://www.glyph.de/cvs/Muxfeldt-Profil-DE.pdf)
 
 [CV Download - English ](https://www.glyph.de/cvs/Muxfeldt-Profile-EN.pdf)
