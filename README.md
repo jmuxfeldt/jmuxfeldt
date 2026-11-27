@@ -18,9 +18,9 @@ For my software CV, see:
 
 [CV Download - English ](https://www.glyph.de/cvs/Muxfeldt-Profile-EN.pdf)
 
---- 
+
 I also work as an artist.  For my artist's CV, see [artist](https://www.glyph.de/en/page/artist-s-biography). 
----
+
 
 ## Support my projects 💚
 
