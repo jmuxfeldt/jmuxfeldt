@@ -9,7 +9,7 @@ for prominent offices in Berlin, Germany. The spectrum of my work experience rea
 As a PHP software architect and senior developer, my particular areas of specialty include:
 Internet applications, developed using  Symfony (CQRS and Event Sourcing)
 Drupal (I develop with Drupal on an expert level, particularly back-end applications)
-Vue.js, and Javascript. 
+Vue.js, and Typescript. 
 
 See [https://www.glyph.de](https://www.glyph.de).
 
