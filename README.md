@@ -1,7 +1,7 @@
 
 ## Jost Muxfeldt
 
-I am a software designer and artist specialized in internet technology and multimedia design. 
+I am a software designer specialized in internet technology and multimedia design. 
 
 I have worked as an architect, developer, project manager, designer, and conceptual designer, 
 for prominent offices in Berlin, Germany. The spectrum of my work experience reaches from architecture offices to internet agencies, as well as teaching and publication. 
@@ -18,8 +18,9 @@ For my software CV, see:
 
 [CV Download - English ](https://www.glyph.de/cvs/Muxfeldt-Profile-EN.pdf)
 
-
-For my artist's CV, see [artist](https://www.glyph.de/en/page/artist-s-biography). 
+--- 
+I also work as an artist.  For my artist's CV, see [artist](https://www.glyph.de/en/page/artist-s-biography). 
+---
 
 ## Support my projects 💚
 
